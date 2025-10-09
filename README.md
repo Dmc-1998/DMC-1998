@@ -1,4 +1,4 @@
-# Dunkan Martínez — Physicist (Condensed Matter & Quantum)
+# Dunkan Martínez Camacho — Physicist (Condensed Matter & Quantum)
 
 **Contact:** [dunkan.martinez.camacho@gmail.com](mailto:dunkan.martinez.camacho@gmail.com) · **ORCID:** [0000-0003-1106-9698](https://orcid.org/0000-0003-1106-9698)
 
