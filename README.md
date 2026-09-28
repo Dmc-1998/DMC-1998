@@ -12,8 +12,8 @@ My background includes several international collaborations and multiple peer-re
 
 ### Research & Projects
 
-* **Publications:** 7 peer‑reviewed articles (see ORCID above).
-* **Focus:** topological and quantum phenomena (e.g., bound states in the continuum, Majorana signatures), disordered systems, and numerical modeling.
+* **Publications:** 8 peer‑reviewed articles (see ORCID above).
+* **Focus:** topological and quantum phenomena (e.g., bound states in the continuum, Majorana signatures), disordered systems, and numerical modeling).
 * **Projects:** contributor in multiple funded research projects in condensed matter physics.
 * **Teaching interest:** strong commitment to pedagogy and knowledge transfer within academic environments.
 
@@ -33,8 +33,8 @@ He participado en colaboraciones internacionales y soy autor de varios artículo
 
 ### Investigación y proyectos
 
-* **Publicaciones:** 7 artículos con revisión por pares (ver ORCID arriba).
-* **Líneas:** fenómenos topológicos y cuánticos (por ejemplo, *bound states in the continuum*, firmas de Majorana), desorden y modelización numérica.
+* **Publicaciones:** 8 artículos con revisión por pares (ver ORCID arriba).
+* **Líneas:** fenómenos topológicos y cuánticos (por ejemplo, *bound states in the continuum*, firmas de Majorana), desorden y modelización numérica).
 * **Proyectos:** participación en diversos proyectos financiados en física de la materia condensada.
 * **Docencia:** fuerte interés por la enseñanza y la divulgación científica, con enfoque en metodologías claras y estructuradas.
 
